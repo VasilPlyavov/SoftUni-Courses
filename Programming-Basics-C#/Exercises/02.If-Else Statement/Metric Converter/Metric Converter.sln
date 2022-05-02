@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metric Converter", "Metric Converter\Metric Converter.csproj", "{6C5467E3-928D-4BEA-8C11-53C68E4598B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5467E3-928D-4BEA-8C11-53C68E4598B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5467E3-928D-4BEA-8C11-53C68E4598B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5467E3-928D-4BEA-8C11-53C68E4598B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5467E3-928D-4BEA-8C11-53C68E4598B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C502ADD-077D-4580-9EAB-8917B109CA21}
+	EndGlobalSection
+EndGlobal
