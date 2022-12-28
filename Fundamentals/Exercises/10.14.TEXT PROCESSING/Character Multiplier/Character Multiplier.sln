@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Multiplier", "Character Multiplier\Character Multiplier.csproj", "{AC860493-2549-4D4E-BBE0-8B604CBF459E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC860493-2549-4D4E-BBE0-8B604CBF459E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC860493-2549-4D4E-BBE0-8B604CBF459E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC860493-2549-4D4E-BBE0-8B604CBF459E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC860493-2549-4D4E-BBE0-8B604CBF459E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73332979-8B4F-413C-950B-950244DB21FF}
+	EndGlobalSection
+EndGlobal
