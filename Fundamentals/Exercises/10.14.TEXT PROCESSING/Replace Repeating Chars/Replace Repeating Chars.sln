@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace Repeating Chars", "Replace Repeating Chars\Replace Repeating Chars.csproj", "{30F83185-7188-458C-AD68-97DEAB82A7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F83185-7188-458C-AD68-97DEAB82A7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F83185-7188-458C-AD68-97DEAB82A7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F83185-7188-458C-AD68-97DEAB82A7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F83185-7188-458C-AD68-97DEAB82A7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F92B1A-7333-4CA9-A267-18686C7711B1}
+	EndGlobalSection
+EndGlobal
